@@ -1,1 +1,2 @@
-Learn git commit
+1.  Learn git commit - done
+2.  Learn ignore files
