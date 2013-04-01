@@ -1,3 +1,4 @@
 1.  Learn git commit - done
 2.  Learn ignore files- done
 3.  Theory of Git
+4. Learn git branching(done)
