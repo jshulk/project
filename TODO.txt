@@ -2,3 +2,4 @@
 2.  Learn ignore files- done
 3.  Theory of Git
 4. Learn git branching(done)
+5. Learn Merge
